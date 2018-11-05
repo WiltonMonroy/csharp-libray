@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="censo_testModelStoreContainer" CdmEntityContainer="censoEntities">
+    <EntitySetMapping Name="persona">
+      <EntityTypeMapping TypeName="censo_testModel.persona">
+        <MappingFragment StoreEntitySet="persona">
+          <ScalarProperty Name="id_persona" ColumnName="id_persona" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="edad" ColumnName="edad" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

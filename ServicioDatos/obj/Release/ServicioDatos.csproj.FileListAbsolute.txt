@@ -1,0 +1,12 @@
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\ServicioDatos.dll.config
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\ServicioDatos.dll
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\ServicioDatos.pdb
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\EntityFramework.dll
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\EntityFramework.SqlServer.dll
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\EntityFramework.xml
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\bin\EntityFramework.SqlServer.xml
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\obj\Release\ServicioDatos.csprojAssemblyReference.cache
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\obj\Release\ServicioDatos.csproj.CoreCompileInputs.cache
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\obj\Release\ServicioDatos.csproj.CopyComplete
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\obj\Release\ServicioDatos.dll
+C:\Users\wmonroy\source\repos\ServicioDatos\ServicioDatos\obj\Release\ServicioDatos.pdb

@@ -1,0 +1,10 @@
+﻿
+create table dbo.persona(
+	id_persona int IDENTITY,
+	nombre varchar(50) not null,
+	apellido VARCHAR(50) not null,
+	edad int not null,
+	fecha DATETIME not null,
+	estado int not null,
+	primary key(id_persona)
+);
